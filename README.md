@@ -2,7 +2,7 @@
 
 # **Hola 👋!**
 
-#### Soy un desarrollador de software altamente motivado en busca de oportunidades para aplicar mis habilidades técnicas y conocimientos teóricos en el campo de la programación. Poseo una sólida formación académica en ingeniería de software y una pasión por el aprendizaje y la resolución de problemas.
+#### Soy un desarrollador de software altamente motivado en busca de oportunidades para aplicar mis habilidades técnicas y conocimientos teóricos en el campo de la programación. Poseo una pasión por el aprendizaje y la resolución de problemas.
 
 #### Habilidades técnicas:
 - ✅ Experiencia en el desarrollo de aplicaciones web utilizando React, Angular, NodeJS, PHP, .Net 6+.

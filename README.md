@@ -6,7 +6,7 @@
 
 #### Habilidades técnicas:
 - ✅ Experiencia en el desarrollo de aplicaciones web utilizando React, Angular, NodeJS, PHP, .Net 6+.
-- ✅ Conocimiento profundo de lenguajes de programación como Javacscript, Dart, Java, C#.
+- ✅ Conocimiento profundo de lenguajes de programación como Javascript, Java, Dart, C#.
 - ✅ Conocimiento en Git y Docker
 - ✅ Competencia en el uso de bases de datos relacionales como MySQL, SQL Server y No relacionales como MongoDB.
  

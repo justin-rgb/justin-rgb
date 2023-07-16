@@ -17,4 +17,3 @@
 - 💻 Desarrollo de una tienda en línea para el emprendimiento costarricense "La Miel de Pao" usando React, NodeJS y MongoDB
 
  
-#### Como desarrollador de software estoy emocionado por la oportunidad de aplicar mis conocimientos y habilidades en proyectos reales. Estoy comprometido a aprender y crecer en el campo de la programación, y estoy dispuesto a asumir nuevos desafíos para desarrollarme como profesional.

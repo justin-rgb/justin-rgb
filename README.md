@@ -1,4 +1,4 @@
-![Justin Varela](https://raw.githubusercontent.com/justin-rgb/justin-rgb/main/banner_justin.png)
+![Justin Varela](https://raw.githubusercontent.com/justin-rgb/justin-rgb/main/Banner_justin_varelac.png)
 
 # **Hola 👋!**
 

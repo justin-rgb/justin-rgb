@@ -1,4 +1,4 @@
-![Justin Varela](https://raw.githubusercontent.com/justin-rgb/justin-rgb/main/Banner_justin_varelac.png)
+<img style="border-radius: 15px;"  src="https://res.cloudinary.com/my-site-justin/image/upload/f_auto,q_auto/gl0llchw926zedbmion4" alt="Banner"  >
 
 # **Hola 👋!**
 
